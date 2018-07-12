@@ -1,0 +1,23 @@
+{
+  "name": "amazonscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorstevens/amazonScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorstevens/amazonScraper/issues"
+  },
+  "homepage": "https://github.com/lorstevens/amazonScraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "puppeteer": "^1.5.0"
+  }
+}
