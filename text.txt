@@ -2,73 +2,73 @@
     {
         "product": {
             "id": "result_0",
-            "title": "The Complete Short Stories of Ernest Hemingway: The Finca Vigia Edition",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Complete-Short-Stories-Ernest-Hemingway/dp/0684843323/ref=sr_1_1?ie=UTF8&qid=1531450290&sr=8-1&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51pN9hRxIoL._AC_US218_.jpg",
-            "price": "1216.7199",
-            "author": "Ernest Hemingway",
-            "date": "Aug 3, 1998"
-        }
-    },
-    {
-        "product": {
-            "id": "result_1",
-            "title": "The Sun Also Rises",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Sun-Also-Rises-Ernest-Hemingway/dp/0743297334/ref=sr_1_2?ie=UTF8&qid=1531450290&sr=8-2&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51lmTfDL9fL._AC_US218_.jpg",
-            "price": "103.4055",
-            "author": "Ernest Hemingway",
-            "date": "Oct 17, 2006"
-        }
-    },
-    {
-        "product": {
-            "id": "result_2",
-            "title": "Hemingway's Garden Of Eden",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Hemingways-Garden-Eden-Mena-Suvari/dp/B008Y71EKG/ref=sr_1_3?ie=UTF8&qid=1531450290&sr=8-3&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51genqhl4AL._PI_PJPrime-Sash-Extra-Large-2017,TopLeft,0,0_AC_US218_.jpg",
-            "price": "27.9999",
-            "author": "",
-            "date": "2010"
-        }
-    },
-    {
-        "product": {
-            "id": "result_3",
-            "title": "A Farewell to Arms: The Hemingway Library Edition",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Farewell-Arms-Hemingway-Library/dp/1476764522/ref=sr_1_4?ie=UTF8&qid=1531450290&sr=8-4&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51GxAgnDqVL._AC_US218_.jpg",
-            "price": "133.6052",
-            "author": "Ernest Hemingway",
-            "date": "Jul 8, 2014"
-        }
-    },
-    {
-        "product": {
-            "id": "result_4",
             "title": "For Whom the Bell Tolls",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Whom-Bell-Tolls-Ernest-Hemingway/dp/0684803356/ref=sr_1_5?ie=UTF8&qid=1531450290&sr=8-5&keywords=hemingway",
+            "sourceUrl": "https://www.amazon.com/Whom-Bell-Tolls-Ernest-Hemingway/dp/0684803356/ref=sr_1_1?ie=UTF8&qid=1531451409&sr=8-1&keywords=hemingway&dpID=51ITaxhiA8L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51ITaxhiA8L._AC_US218_.jpg",
-            "price": "125.2300",
+            "price": "12.23",
             "author": "Ernest Hemingway",
             "date": "Jul 1, 1995"
         }
     },
     {
         "product": {
-            "id": "result_5",
-            "title": "Hemingway & Gellhorn",
+            "id": "result_1",
+            "title": "The Old Man and the Sea",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Hemingway-Gellhorn-Nicole-Kidman/dp/B00C58TGQ4/ref=sr_1_6?ie=UTF8&qid=1531450290&sr=8-6&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51+FzO0wwzL._PI_PJPrime-Sash-Extra-Large-2017,TopLeft,0,0_AC_US218_.jpg",
-            "price": "29.9999",
+            "sourceUrl": "https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway-ebook/dp/B000FC0SH8/ref=sr_1_2?ie=UTF8&qid=1531451409&sr=8-2&keywords=hemingway&dpID=41%252Bu9rvgl1L&preST=_SY445_QL70_&dpSrc=srch",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41+u9rvgl1L._AC_US218_.jpg",
+            "price": "9.99",
+            "author": "Ernest Hemingway",
+            "date": "Jul 25, 2002"
+        }
+    },
+    {
+        "product": {
+            "id": "result_2",
+            "title": "The Sun Also Rises",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Sun-Also-Rises-Ernest-Hemingway/dp/0743297334/ref=sr_1_3?ie=UTF8&qid=1531451409&sr=8-3&keywords=hemingway&dpID=51lmTfDL9fL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51lmTfDL9fL._AC_US218_.jpg",
+            "price": "10.40",
+            "author": "Ernest Hemingway",
+            "date": "Oct 17, 2006"
+        }
+    },
+    {
+        "product": {
+            "id": "result_3",
+            "title": "Hemingway's Garden Of Eden",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Hemingways-Garden-Eden-Mena-Suvari/dp/B008Y71EKG/ref=sr_1_4?ie=UTF8&qid=1531451409&sr=8-4&keywords=hemingway&dpID=51genqhl4AL&preST=_SY300_QL70_&dpSrc=srch",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51genqhl4AL._PI_PJPrime-Sash-Extra-Large-2017,TopLeft,0,0_AC_US218_.jpg",
+            "price": ".",
             "author": "",
-            "date": "2012"
+            "date": "2010"
+        }
+    },
+    {
+        "product": {
+            "id": "result_4",
+            "title": "The Complete Short Stories of Ernest Hemingway: The Finca Vigia Edition",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Complete-Short-Stories-Ernest-Hemingway/dp/0684843323/ref=sr_1_5?ie=UTF8&qid=1531451409&sr=8-5&keywords=hemingway&dpID=51pN9hRxIoL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51pN9hRxIoL._AC_US218_.jpg",
+            "price": "12.71",
+            "author": "Ernest Hemingway",
+            "date": "Aug 3, 1998"
+        }
+    },
+    {
+        "product": {
+            "id": "result_5",
+            "title": "A Farewell to Arms: The Hemingway Library Edition",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Farewell-Arms-Hemingway-Library/dp/1476764522/ref=sr_1_6?ie=UTF8&qid=1531451409&sr=8-6&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51GxAgnDqVL._AC_US218_.jpg",
+            "price": "13.60",
+            "author": "Ernest Hemingway",
+            "date": "Jul 8, 2014"
         }
     },
     {
@@ -76,9 +76,9 @@
             "id": "result_6",
             "title": "A Moveable Feast: The Restored Edition",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Moveable-Feast-Restored-Ernest-Hemingway/dp/143918271X/ref=sr_1_7?ie=UTF8&qid=1531450290&sr=8-7&keywords=hemingway",
+            "sourceUrl": "https://www.amazon.com/Moveable-Feast-Restored-Ernest-Hemingway/dp/143918271X/ref=sr_1_7?ie=UTF8&qid=1531451409&sr=8-7&keywords=hemingway",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51lVoALt-2L._AC_US218_.jpg",
-            "price": "102.8726",
+            "price": "10.87",
             "author": "Ernest Hemingway",
             "date": "Jul 20, 2010"
         }
@@ -88,9 +88,9 @@
             "id": "result_7",
             "title": "To Have and Have Not",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Have-Not-Ernest-Hemingway/dp/0684818981/ref=sr_1_8?ie=UTF8&qid=1531450290&sr=8-8&keywords=hemingway",
+            "sourceUrl": "https://www.amazon.com/Have-Not-Ernest-Hemingway/dp/0684818981/ref=sr_1_8?ie=UTF8&qid=1531451409&sr=8-8&keywords=hemingway",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41f0JOpa3IL._AC_US218_.jpg",
-            "price": "1011.8799",
+            "price": "10.87",
             "author": "Ernest Hemingway",
             "date": "Mar 20, 1996"
         }
@@ -100,7 +100,7 @@
             "id": "result_8",
             "title": "[Sponsored]Recollections of the Restless",
             "description": "The pull of adventure. The story follows derelict companions as they seek balance between testing comfort zones and settling into a more stable life.",
-            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A07622222NVPBEP2YZ1W7&url=https%3A%2F%2Fwww.amazon.com%2FRecollections-Restless-Brad-Masashi-Kunisaki%2Fdp%2F1983223689%2Fref%3Dsr_1_9_sspa%3Fie%3DUTF8%26qid%3D1531450290%26sr%3D8-9-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531450290&id=2040616444742293&widgetName=sp_mtf",
+            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_1?ie=UTF8&adId=A07622222NVPBEP2YZ1W7&url=https%3A%2F%2Fwww.amazon.com%2FRecollections-Restless-Brad-Masashi-Kunisaki%2Fdp%2F1983223689%2Fref%3Dsr_1_9_sspa%3Fie%3DUTF8%26qid%3D1531451409%26sr%3D8-9-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531451409&id=2205211977194324&widgetName=sp_mtf",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41boCKcu77L._AC_US218_.jpg",
             "price": "15.95",
             "author": "",
@@ -112,9 +112,9 @@
             "id": "result_9",
             "title": "[Sponsored]The White Rhino Hotel (Anton Rider Book 1)",
             "description": "\"Compared with Hemingway or Ruark ... Bull's knowledge of East Africa is profound.\" —Washington Post Book World",
-            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_2?ie=UTF8&adId=A002992125M2CWQEHPTHR&url=https%3A%2F%2Fwww.amazon.com%2FWhite-Rhino-Hotel-Anton-Rider-ebook%2Fdp%2FB074BNK3SJ%2Fref%3Dsr_1_10_sspa%3Fie%3DUTF8%26qid%3D1531450290%26sr%3D8-10-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531450290&id=2040616444742293&widgetName=sp_mtf",
+            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_aps_sr_pg1_2?ie=UTF8&adId=A002992125M2CWQEHPTHR&url=https%3A%2F%2Fwww.amazon.com%2FWhite-Rhino-Hotel-Anton-Rider-ebook%2Fdp%2FB074BNK3SJ%2Fref%3Dsr_1_10_sspa%3Fie%3DUTF8%26qid%3D1531451409%26sr%3D8-10-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531451409&id=2205211977194324&widgetName=sp_mtf",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51lYBNHP0IL._AC_US218_.jpg",
-            "price": "6.99",
+            "price": ".",
             "author": "Bartle Bull",
             "date": "Jul 27, 2017"
         }
@@ -122,97 +122,97 @@
     {
         "product": {
             "id": "result_10",
-            "title": "Ernest Hemingway: A Biography",
+            "title": "Hemingway & Gellhorn",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Ernest-Hemingway-Biography-Mary-Dearborn-ebook/dp/B01KUDVX4I/ref=sr_1_11?ie=UTF8&qid=1531450290&sr=8-11&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51NO1M6WO8L._AC_US218_.jpg",
-            "price": "1318.9900",
-            "author": "Mary V. Dearborn",
-            "date": "May 16, 2017"
-        }
-    },
-    {
-        "product": {
-            "id": "result_11",
-            "title": "The Old Man and the Sea: The Expedition",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Old-Man-Sea-Expedition/dp/B076N1BGLX/ref=sr_1_12?ie=UTF8&qid=1531450290&sr=8-12&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51nPRLz34rL._PI_PJPrime-Sash-Extra-Large-2017,TopLeft,0,0_AC_US218_.jpg",
-            "price": "01.9999",
+            "sourceUrl": "https://www.amazon.com/Hemingway-Gellhorn-Nicole-Kidman/dp/B00KGSTFCU/ref=sr_1_11?ie=UTF8&qid=1531451409&sr=8-11&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51+FzO0wwzL._PI_PJPrime-Sash-Extra-Large-2017,TopLeft,0,0_AC_US218_.jpg",
+            "price": ".",
             "author": "",
             "date": "2012"
         }
     },
     {
         "product": {
+            "id": "result_11",
+            "title": "The Short Stories of Ernest Hemingway: The Hemingway Library Edition",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Short-Stories-Ernest-Hemingway-Library/dp/1476787670/ref=sr_1_12?ie=UTF8&qid=1531451409&sr=8-12&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51wR1VpxOtL._AC_US218_.jpg",
+            "price": "20.00",
+            "author": "Ernest Hemingway",
+            "date": "Jul 17, 2018"
+        }
+    },
+    {
+        "product": {
             "id": "result_12",
-            "title": "The Old Man and The Sea",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Old-Man-Sea-Ernest-Hemingway/dp/0684801221/ref=sr_1_13?ie=UTF8&qid=1531450290&sr=8-13&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/411pakPjvdL._AC_US218_.jpg",
-            "price": "109.0299",
-            "author": "Ernest Hemingway",
-            "date": "May 5, 1995"
-        }
-    },
-    {
-        "product": {
-            "id": "result_13",
-            "title": "Death in the Afternoon",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Death-Afternoon-Ernest-Hemingway/dp/0684801450/ref=sr_1_14?ie=UTF8&qid=1531450290&sr=8-14&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/516G0RSN34L._AC_US218_.jpg",
-            "price": "1413.7699",
-            "author": "Ernest Hemingway",
-            "date": "Apr 16, 1996"
-        }
-    },
-    {
-        "product": {
-            "id": "result_14",
-            "title": "The Snows of Kilimanjaro and Other Stories",
-            "description": "",
-            "sourceUrl": "https://www.amazon.com/Snows-Kilimanjaro-Other-Stories/dp/0684804441/ref=sr_1_15?ie=UTF8&qid=1531450290&sr=8-15&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41seNXaGc5L._AC_US218_.jpg",
-            "price": "1111.9899",
-            "author": "Ernest Hemingway",
-            "date": "Oct 3, 1995"
-        }
-    },
-    {
-        "product": {
-            "id": "result_15",
             "title": "In Our Time",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Our-Time-Ernest-Hemingway/dp/0684822768/ref=sr_1_16?ie=UTF8&qid=1531450290&sr=8-16&keywords=hemingway",
+            "sourceUrl": "https://www.amazon.com/Our-Time-Ernest-Hemingway/dp/0684822768/ref=sr_1_13?ie=UTF8&qid=1531451409&sr=8-13&keywords=hemingway",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41C1amNRGhL._AC_US218_.jpg",
-            "price": "910.7999",
+            "price": "9.79",
             "author": "Ernest Hemingway",
             "date": "Jan 31, 1996"
         }
     },
     {
         "product": {
-            "id": "result_16",
-            "title": "Green Hills of Africa: The Hemingway Library Edition",
+            "id": "result_13",
+            "title": "The Snows of Kilimanjaro and Other Stories",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Green-Hills-Africa-Hemingway-Library/dp/1476787581/ref=sr_1_17?ie=UTF8&qid=1531450290&sr=8-17&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51JQa5rb8aL._AC_US218_.jpg",
-            "price": "1012.8799",
+            "sourceUrl": "https://www.amazon.com/Snows-Kilimanjaro-Other-Stories/dp/0684804441/ref=sr_1_14?ie=UTF8&qid=1531451409&sr=8-14&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41seNXaGc5L._AC_US218_.jpg",
+            "price": "11.98",
             "author": "Ernest Hemingway",
-            "date": "Jul 19, 2016"
+            "date": "Oct 3, 1995"
+        }
+    },
+    {
+        "product": {
+            "id": "result_14",
+            "title": "Papa, The Man, The Myth, The Legend",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Papa-Myth-Legend-Jordan-Rhodes/dp/B01NGUDJBV/ref=sr_1_15?ie=UTF8&qid=1531451409&sr=8-15&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51D676DIo4L._PI_PJPrime-Sash-Extra-Large-2017,TopLeft,0,0_AC_US218_.jpg",
+            "price": ".",
+            "author": "",
+            "date": "2016"
+        }
+    },
+    {
+        "product": {
+            "id": "result_15",
+            "title": "Men Without Women",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Men-Without-Women-Ernest-Hemingway/dp/1721547398/ref=sr_1_16?ie=UTF8&qid=1531451409&sr=8-16&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51wg7Q7kcJL._AC_US218_.jpg",
+            "price": "7.99",
+            "author": "Ernest Hemingway",
+            "date": "Jun 19, 2018"
+        }
+    },
+    {
+        "product": {
+            "id": "result_16",
+            "title": "Islands in the Stream",
+            "description": "",
+            "sourceUrl": "https://www.amazon.com/Islands-Stream-Ernest-Hemingway/dp/0684837870/ref=sr_1_17?ie=UTF8&qid=1531451409&sr=8-17&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41SeKMs271L._AC_US218_.jpg",
+            "price": "14.40",
+            "author": "Ernest Hemingway",
+            "date": "Dec 10, 1997"
         }
     },
     {
         "product": {
             "id": "result_17",
-            "title": "Wrestling Ernest Hemingway",
+            "title": "Ernest Hemingway: A Biography",
             "description": "",
-            "sourceUrl": "https://www.amazon.com/Wrestling-Ernest-Hemingway-Robert-Duvall/dp/B00N79BH1W/ref=sr_1_18?ie=UTF8&qid=1531450290&sr=8-18&keywords=hemingway",
-            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Xb-74C0CL._AC_US218_.jpg",
-            "price": "211.9999",
-            "author": "",
-            "date": "1993"
+            "sourceUrl": "https://www.amazon.com/Ernest-Hemingway-Biography-Mary-Dearborn/dp/030759467X/ref=sr_1_18?ie=UTF8&qid=1531451409&sr=8-18&keywords=hemingway",
+            "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51gmRBecEpL._AC_US218_.jpg",
+            "price": "20.12",
+            "author": "Mary V. Dearborn",
+            "date": "May 16, 2017Deckle Edge"
         }
     },
     {
@@ -220,7 +220,7 @@
             "id": "result_18",
             "title": "[Sponsored]Sudetenland",
             "description": "An Epic Foray Into the Lead-up to WW II\n\n\"Anyone interested in history and/or WW II events will eat this book up.\"",
-            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_2?ie=UTF8&adId=A059055221PWIP573XKAR&url=https%3A%2F%2Fwww.amazon.com%2FSudetenland-George-T-Chronis-ebook%2Fdp%2FB00O2T6B9Y%2Fref%3Dsr_1_19_sspa%3Fie%3DUTF8%26qid%3D1531450290%26sr%3D8-19-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531450290&id=2040616444742293&widgetName=sp_btf",
+            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_2?ie=UTF8&adId=A059055221PWIP573XKAR&url=https%3A%2F%2Fwww.amazon.com%2FSudetenland-George-T-Chronis-ebook%2Fdp%2FB00O2T6B9Y%2Fref%3Dsr_1_19_sspa%3Fie%3DUTF8%26qid%3D1531451409%26sr%3D8-19-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531451409&id=2205211977194324&widgetName=sp_btf",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61SY2I0LPPL._AC_US218_.jpg",
             "price": "4.99",
             "author": "George T. Chronis",
@@ -232,7 +232,7 @@
             "id": "result_19",
             "title": "[Sponsored]The Mouse That Roared Boxed Set (5 Books)",
             "description": "The best-selling classic political satire is now available in a 5-book set. \"As funny as it is charming.\" -- The New York Times",
-            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A08092541P8TTMFE7WNA3&url=https%3A%2F%2Fwww.amazon.com%2FMouse-That-Roared-Boxed-Books-ebook%2Fdp%2FB01IE406IO%2Fref%3Dsr_1_20_sspa%3Fie%3DUTF8%26qid%3D1531450290%26sr%3D8-20-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531450290&id=2040616444742293&widgetName=sp_btf",
+            "sourceUrl": "/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_aps_sr_pg1_1?ie=UTF8&adId=A08092541P8TTMFE7WNA3&url=https%3A%2F%2Fwww.amazon.com%2FMouse-That-Roared-Boxed-Books-ebook%2Fdp%2FB01IE406IO%2Fref%3Dsr_1_20_sspa%3Fie%3DUTF8%26qid%3D1531451409%26sr%3D8-20-spons%26keywords%3Dhemingway%26psc%3D1&qualifier=1531451409&id=2205211977194324&widgetName=sp_btf",
             "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51WMJwh+lIL._AC_US218_.jpg",
             "price": "8.99",
             "author": "Leonard Wibberley",
