@@ -1,0 +1,21 @@
+1. How to handle domains beyond Amazon.com:
+
+Scraping domains beyond Amazon can be achieved by using a For iterator and 
+looping over multiple urls. Example:
+
+for (let i = 0; i < urls.length; i++) {
+    const url = urls[i];
+    await page.goto(`${url}`);
+}
+
+
+2. How to handle products beyond just books:
+
+Instead of using Puppeteer to search for books, we can type different product categories in the textbox. 
+Additionally, we an also bypass typing in a search field and simply just click the input. 
+
+For example, 
+
+await page.goto('http://amazon.com/');
+    await page.click('input.nav-input')
+    await page.waitForSelector('#resultsCol')
