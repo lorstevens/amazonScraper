@@ -18,6 +18,6 @@
   "homepage": "https://github.com/lorstevens/amazonScraper#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
-    "puppeteer": "^1.5.0"
+    "puppeteer": "^1.6.0"
   }
 }
